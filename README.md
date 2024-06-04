@@ -43,4 +43,4 @@ This project showcases a basic real-time traffic sign recognition system. Note t
 
 Feel free to explore and contribute! 🚀👩‍💻👨‍💻
 
-This write-up highlights the project's functionalities, provides a brief overview of its inner workings, and mentions your authorship (R4tW1z). It also encourages potential collaborators to explore and contribute to the project. 🤝🌍
+
